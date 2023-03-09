@@ -1,0 +1,17 @@
+K:\הבלין\א2\project\ComboSample\ComboSample\bin\Debug\net6.0-windows\ComboSample.exe
+K:\הבלין\א2\project\ComboSample\ComboSample\bin\Debug\net6.0-windows\ComboSample.deps.json
+K:\הבלין\א2\project\ComboSample\ComboSample\bin\Debug\net6.0-windows\ComboSample.runtimeconfig.json
+K:\הבלין\א2\project\ComboSample\ComboSample\bin\Debug\net6.0-windows\ComboSample.dll
+K:\הבלין\א2\project\ComboSample\ComboSample\bin\Debug\net6.0-windows\ComboSample.pdb
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.csproj.AssemblyReference.cache
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.Form1.resources
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.csproj.GenerateResource.cache
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.GeneratedMSBuildEditorConfig.editorconfig
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.AssemblyInfoInputs.cache
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.AssemblyInfo.cs
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.csproj.CoreCompileInputs.cache
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.dll
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\refint\ComboSample.dll
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.pdb
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ComboSample.genruntimeconfig.cache
+K:\הבלין\א2\project\ComboSample\ComboSample\obj\Debug\net6.0-windows\ref\ComboSample.dll
